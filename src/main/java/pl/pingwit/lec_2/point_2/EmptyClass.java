@@ -7,4 +7,6 @@ package pl.pingwit.lec_2.point_2;
 public class EmptyClass {
   
   // Здесь нужно добавить метод main()
+  
+  // и еще надо отформатировать код
 }
