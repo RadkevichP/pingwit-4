@@ -23,7 +23,7 @@ public class Wrappers {
         int fromString = Integer.parseInt(number);
 
         String invalidNumber = "test";
-        //int i = Integer.parseInt(invalidNumber);
+        // int i = Integer.parseInt(invalidNumber);
 
         //System.out.println(fromString);
         //System.out.println(i);
@@ -38,9 +38,7 @@ public class Wrappers {
         int maxValue = Integer.MAX_VALUE;
         System.out.println(maxValue);
 
-
         System.out.println("Hello from Git!");
-
 
     }
 

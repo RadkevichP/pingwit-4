@@ -1,0 +1,57 @@
+//////////////////////////
+/////// Lecture 1  ///////
+//////////////////////////
+
+1. Рассказать про запись занятий, помощь друг другу, все вопросы в общий чат, домашка и дедлайны
+2. Введение в Java - кроссплатформенность, JVM, byte code
+3. Настройка Intellij Idea, Path Variable
+4. Запуск и компиляция программы в текстовом редакторе, HelloWorld внутри Intellij Idea
+5. Типы данных (byte, short, char, int, long, float, double, boolean, String)
+6. Операторы в джава. +, -, /, *, %, >, <, !=, >>, <<, x++/ ++x, x--/ --x, оператор+=, приоритет операций
+
+
+Полезный сайт по java:
+https://metanit.com/java/tutorial/
+
+Комьюнити сайт:
+https://stackoverflow.com/
+
+Intellij Idea:
+https://www.jetbrains.com/ru-ru/idea/download/#section=windows
+
+Скачать 17 JDK: https://jdk.java.net/archive/
+Apple M1: Mac/AArch64
+Apple Intel: Mac/x64
+
+
+//////////////////////////
+/////// Lecture 2  ///////
+//////////////////////////
+
+1. Приведение типов.
+2. Типы-обертки (wrappers)
+3. Знакомство с Git и GitHub. Git commit, fetch+merge, pull, push
+4. Процесс проверки домашнего задания
+
+Git:
+git for Windows: https://git-scm.com/download/win
+git for mac: https://git-scm.com/download/mac
+
+
+//////////////////////////
+/////// Lecture 3  ///////
+//////////////////////////
+
+1. if-else, if-else-if
+2. Ternary (Elvis)
+3. Switch / Switch Java 17
+4. Цикл for
+
+
+//////////////////////////
+/////// Lecture 4  ///////
+//////////////////////////
+
+1. while, do-while
+2. continue, break, return
+3. Class Scanner
