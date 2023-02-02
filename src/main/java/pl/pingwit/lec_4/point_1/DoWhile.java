@@ -7,9 +7,7 @@ package pl.pingwit.lec_4.point_1;
 public class DoWhile {
 
     public static void main(String[] args) {
-
         int pigWeight = 201;
-
         do {
             System.out.println("текущий вес " + pigWeight);
             System.out.println("дал поросенку 20 кг");

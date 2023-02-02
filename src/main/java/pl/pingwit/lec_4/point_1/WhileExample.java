@@ -7,7 +7,6 @@ package pl.pingwit.lec_4.point_1;
 public class WhileExample {
 
     public static void main(String[] args) {
-
         int pigWeight = 5;
 
         while (pigWeight < 200) {
@@ -16,7 +15,6 @@ public class WhileExample {
 
             pigWeight += 20;
         }
-
         System.out.println("Поросенок весит " + pigWeight);
     }
 }

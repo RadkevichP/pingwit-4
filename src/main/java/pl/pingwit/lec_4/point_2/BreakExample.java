@@ -21,7 +21,6 @@ public class BreakExample {
 
         }
         System.out.println(sum);
-
         System.out.println("After cycle");
     }
 }
