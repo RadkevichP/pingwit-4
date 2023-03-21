@@ -1,0 +1,11 @@
+Task 1
+С помощью FileInputReader и FileOutputReader сделайте копию файла img.png
+
+Task 2
+С помощью BufferedInputReader и BufferedOutputReader сделайте копию файла img.png
+
+Task 3
+С помощью FileReader и FileWriter создайте копию файла queen.txt + выведите содержимое в консоль
+
+Task 4
+С помощью BufferedReader и BufferedWriter создайте копию файла queen.txt + выведите содержимое в консоль
