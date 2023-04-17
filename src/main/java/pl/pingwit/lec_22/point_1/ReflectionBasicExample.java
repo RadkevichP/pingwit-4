@@ -1,5 +1,6 @@
 package pl.pingwit.lec_22.point_1;
 
+import java.io.IOException;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;

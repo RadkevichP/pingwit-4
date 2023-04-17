@@ -4,6 +4,7 @@ package pl.pingwit.lec_22.point_1;
  * @author Pavel Radkevich
  * @since 13.04.23
  */
+@Deprecated
 public class Employee {
 
     private String name;
