@@ -1,11 +1,14 @@
 package pl.pingwit.lec_21.point_1;
 
+import pl.pingwit.lec_23.point_1.LettersOnly;
+
 /**
  * @author Pavel Radkevich
  * @since 5.04.23
  */
 public class CatPet implements Pet{
 
+    @LettersOnly
     private String name;
     private String type;
 
