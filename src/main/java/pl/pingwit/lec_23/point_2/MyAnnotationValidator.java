@@ -30,9 +30,7 @@ public class MyAnnotationValidator {
                         e.printStackTrace();
                     }
                 }
-
             }
-
         }
     }
 

@@ -2,7 +2,7 @@ package pl.pingwit.lec_17.point_1;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
-import java.io.Serializable;
+import java.io.*;
 import java.util.Objects;
 
 /**
