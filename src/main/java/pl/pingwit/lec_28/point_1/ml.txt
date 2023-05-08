@@ -1,0 +1,6 @@
+html
+xml   // SOAP
+yaml/yml
+
+json JavaScript Object Notation
+

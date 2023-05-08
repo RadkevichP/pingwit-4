@@ -1,0 +1,22 @@
+{
+  "name": "pingwit",
+  "isOnline": true,
+  "pavel": "Radkevich",
+  "courseLength": 5.5,
+  "students": [
+    {
+      "name": "Kasia"
+    },
+    {
+      "name": "Jakub"
+    }
+  ],
+  "program": {
+    "name": "Java",
+    "lectures": [
+      "lec_1",
+      "lec_2",
+      "lec_3"
+    ]
+  }
+}

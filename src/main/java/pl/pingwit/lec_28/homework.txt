@@ -1,0 +1,16 @@
+Task 1
+Добавьте в проект зависимость
+<dependency>
+<groupId>com.fasterxml.jackson.dataformat</groupId>
+<artifactId>jackson-dataformat-xml</artifactId>
+<version>2.14.2</version>
+</dependency>
+
+Беря за основу файл posts.xml, создайте для него соотвествующий класс Post и распарсите файл posts.xml в список List<Post>.
+Возьмите первый элемент списка, преобразуйте его в json-строку и выведите строку в консоль
+
+Task 2
+Взяв за основу файл advertisements.json, создайте класс Advertisement для описания объявления. Поля, которые обязательно
+должны быть в этом классе: id, title, description, city, status , остальные - по вашему желанию. Распарсите файл advertisements.json
+в List<Advertisement>. Отфильтруйте список, оставив обявления, где город - НЕ Минск. Сериализуте результат в строку, запишите ее
+в файл cars_not_from_minsk.json

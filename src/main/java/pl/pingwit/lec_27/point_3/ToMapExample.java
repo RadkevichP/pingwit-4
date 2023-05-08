@@ -5,6 +5,7 @@ import pl.pingwit.lec_26.Phone;
 import java.util.List;
 import java.util.Map;
 import java.util.function.Function;
+import java.util.stream.Collectors;
 
 import static java.util.stream.Collectors.toMap;
 
@@ -38,7 +39,7 @@ public class ToMapExample {
 
         Map<String, String> collect1 = phones.stream()
                 .filter(phone -> "Apple".equalsIgnoreCase(phone.getBrand()))
-                .collect(toMap(Phone::getSerialNumber, phone -> phone.getBrand() + " " + phone.getModel()));
+                .collect(Collectors.toMap(Phone::getSerialNumber, phone -> phone.getBrand() + " " + phone.getModel()));
 
         System.out.println(collect);
 
