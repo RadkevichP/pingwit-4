@@ -1,0 +1,4 @@
+Relational Databases (SQL) - Oracle, MySQL, Postgres, H2, SQLite
+NoSQL Databases - MongoDB - не разбираем
+
+Postgres
