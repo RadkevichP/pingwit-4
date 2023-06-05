@@ -1,0 +1,17 @@
+INSERT INTO users (id, name, surname, email, phone) VALUES
+(1, 'Pavel', 'Petrov', 'pp@gmail.com', '8987766565'),
+(3, 'Anna', 'Feng', 'af@ping.com', '89877611236565'),
+(4, 'Alex', 'Dolmin', 'ad@ping.com', '81324987766565'),
+(5, 'Peter', 'Parker', 'oppo@ping.com', '8955387766565'),
+(6, 'Jessica', 'Shy', 'zozo@gmail.com', '8987763536565'),
+(7, 'Vitas', 'Vitus', 'kuku@ops.com', '8987762316565'),
+(8, 'Olga', 'Keks', 'tutu@gmail.com', '89872445766565'),
+(9, 'John', 'Dow', 'gaga@gmail.com', '1313249898'),
+(10, 'Sergey', 'Lazarev', 'lapa@ya.com', '98357975938'),
+(12, 'Viktor', 'Leh', 'tupo@gmail.com', '17642764'),
+(13, 'Dasha', 'Popova', 'roro@gmail.com', '8987876885766565'),
+(14, 'Oleg', 'Gnauk', 'tratata@mail.com', '89877685876565'),
+(15, 'Sergey', 'Sich', 'popopo@gmail.com', '8987133766565'),
+(16, 'Evgen', 'Smirnof', 'rerere@gmail.com', '89877776566565'),
+(17, 'Valtery', 'Botas', 'qwqwqw@gmail.com', '898765465766565'),
+(18, 'Alan', 'Smith', 'bnnbnb@gmail.com', '89877665678785');
