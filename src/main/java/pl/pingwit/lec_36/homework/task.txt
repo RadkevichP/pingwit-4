@@ -1,0 +1,9 @@
+1. Работа с таблицей products. Создайте класс Product, который соответствует таблице products.
+ С помощью цикла выведите все продукты в консоль, но за один запрос нужно прочитать 2 продукта
+ SELECT * FROM products LIMIT 2 OFFSET 0
+ SELECT * FROM products LIMIT 2 OFFSET 2
+ SELECT * FROM products LIMIT 2 OFFSET 4 .....
+ Для создания запроса используйте объект PreparedStatement
+
+ 2. Создайте список из трех новых продуктов и сохраните эти продукты в базу данных.
+ Для создания запроса используйте объект PreparedStatement
