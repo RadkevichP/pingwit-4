@@ -1,7 +1,7 @@
 package pl.pingwit.lec_36.point_3;
 
 import com.zaxxer.hikari.HikariDataSource;
-import pl.pingwit.lec_36.User;
+import pl.pingwit.lec_37.User;
 
 import javax.sql.DataSource;
 import java.sql.Connection;

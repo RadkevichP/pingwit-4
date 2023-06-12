@@ -1,4 +1,4 @@
-package pl.pingwit.lec_36;
+package pl.pingwit.lec_37;
 
 /**
  * @author Pavel Radkevich

@@ -1,6 +1,6 @@
 package pl.pingwit.lec_36.point_1;
 
-import pl.pingwit.lec_36.User;
+import pl.pingwit.lec_37.User;
 
 import java.sql.*;
 import java.util.ArrayList;
